@@ -32,7 +32,7 @@ const Google = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Reporting Lap. Daily, Monthly, Annual in accordance with company/applicable regulations.
+          Reporting Lap. Daily, Monthly, Annual in accordance with company / applicable regulations.
         </li>
       </ul>
     </motion.div>

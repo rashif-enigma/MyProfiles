@@ -34,7 +34,7 @@ const Banner = () => {
         I bring experience in software development and actively pursue training to enhance both my technical and soft skills. 
         I am keen to pursue a career as a frontend developer, backend developer, or full stack developer, while remaining open to exploring other areas within the technology sector. 
         I believe that every challenge is an opportunity for learning and growth, and I am prepared to make meaningful contributions in a dynamic and innovative work environment.{" "}
-        <a href="https://www.noormohammad.live/" target="_blank">
+        <a href="https://www.linkedin.com/in/rashif-zhafir-820791243/" target="_blank">
           {" "}
           <span className="text-textGreen inline-flex relative cursor-pointer h-7 overflow-x-hidden group">
             Learn more
@@ -42,7 +42,7 @@ const Banner = () => {
           </span>
         </a>
       </motion.p>
-      <a href="https://gitlab.com/rashif.poltas16" target="_blank">
+      <a href="https://github.com/rashif-enigma" target="_blank">
         <motion.button
           initial={{ y: 10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}

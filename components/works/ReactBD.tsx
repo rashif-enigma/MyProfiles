@@ -11,7 +11,7 @@ const ReactBD = () => {
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
       Center Jakarta
-        <span className="text-textGreen tracking-wide">|| Developer</span>
+        <span className="text-textGreen tracking-wide">|| Developer & QA Engineer</span>
       </h3>
       <p className="text-sm mt-1 font-medium text-textDark">
         Jun 2024 - present
@@ -27,13 +27,19 @@ const ReactBD = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Java , Golang & .NET
+          Javascript, Golang & .NET
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
           Team Project
+        </li>
+        <li className="text-base flex gap-2 text-textDark">
+          <span className="text-textGreen mt-1">
+            <TiArrowForward />
+          </span>
+          Quality Assurance Engineer ( Application Tester )
         </li>
       </ul>
     </motion.div>
