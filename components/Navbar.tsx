@@ -310,9 +310,9 @@ const Navbar = () => {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 1.2, ease: "easeIn" }}
                 className="text-sm w-72 tracking-widest text-textGreen text-center mt-4"
-                href="mailto:noor.jsdivs@gmail.com"
+                href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=rashif.poltas16@gmail.com"
               >
-                <p>reactbd@proton.me</p>
+                <p>Rashif Zhafir</p>
               </motion.a>
             </motion.div>
           </div>
