@@ -29,7 +29,7 @@ const Projects = () => {
           <div className="w-full xl:w-1/2 flex flex-col gap-6 lgl:justify-between items-end text-right xl:-ml-16 z-10">
             <div>
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
-                Team Project
+                Backend Developer in
               </p>
               <h3 className="text-2xl font-bold">PACE 2.0</h3>
             </div>
@@ -91,9 +91,9 @@ const Projects = () => {
           <div className="w-full xl:w-1/2 flex flex-col gap-6 justify-between items-end text-right z-10">
             <div>
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
-                Featured Project
+                QA Tester in
               </p>
-              <h3 className="text-2xl font-bold">Cyber Security Blog</h3>
+              <h3 className="text-2xl font-bold">BAMS CPR</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
               A full functional Cyber Security Blog where you can view the
@@ -155,9 +155,9 @@ const Projects = () => {
           <div className="w-full xl:w-1/2 flex flex-col gap-6 justify-between items-end text-right xl:-ml-16 z-10">
             <div>
               <p className="font-titleFont text-textGreen text-sm tracking-wide">
-                Featured Project
+                Backend Developer in
               </p>
-              <h3 className="text-2xl font-bold">Amazon Clone 2.0</h3>
+              <h3 className="text-2xl font-bold">IRS 2.0</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
               An Amazon clone website for visualizing personalized Amazon

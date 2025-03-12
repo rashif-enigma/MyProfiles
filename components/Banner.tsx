@@ -42,14 +42,14 @@ const Banner = () => {
           </span>
         </a>
       </motion.p>
-      <a href="https://github.com/rashif-enigma" target="_blank">
+      <a href="https://www.linkedin.com/in/rashif-zhafir-820791243/" target="_blank">
         <motion.button
           initial={{ y: 10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.5, delay: 0.9 }}
           className="w-52 h-14 text-sm font-titleFont border border-textGreen rounded-md text-textGreen tracking-wide hover:bg-hoverColor duration-300"
         >
-          Check out my project!
+          More About Me!
         </motion.button>
       </a>
     </section>
