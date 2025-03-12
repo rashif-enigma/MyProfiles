@@ -62,7 +62,7 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              RestAPI's
+              RestAPI&apos;s
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
