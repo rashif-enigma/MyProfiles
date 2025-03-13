@@ -35,7 +35,7 @@ const Projects = () => {
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
             <span className="text-textGreen"><b>P</b></span>ackage of <span className="text-textGreen"><b>A</b></span>ccurate <span className="text-textGreen"><b>C</b></span>onvenient and <span className="text-textGreen"><b>E</b></span>fficient recasting{" "}
-              <span className="text-textGreen">( PACE )</span> Tool Adalah tools yang mengotomasi proses analisis
+              <span className="text-textGreen">( PACE )</span> Tool adalah tools yang mengotomasi proses analisis
           rekening koran untuk memudahkan proses dan mempertajam hasil analisis rekening koran<span className="text-textGreen"></span>.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
@@ -96,7 +96,7 @@ const Projects = () => {
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
             Customer Profitability Report{" "}
               <span className="text-textGreen">( BAMS CPR )</span> adalah sebuah aplikasi{" "}
-              <span className="text-textGreen">Perhitungan laba untung dan rugi</span> produk pinjaman, simpanan dan jasa bagi kreditur pada PT Bank Negara Indonesia (Persero) Tbk
+              <span className="text-textGreen">Perhitungan Laba Untung dan Laba Rugi</span> produk pinjaman, simpanan dan jasa bagi kreditur pada PT Bank Negara Indonesia (Persero) Tbk
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>.NET Famework</li>
@@ -154,8 +154,8 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">IRS 2.0</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-            Integrated Rating System {" "}
-              <span className="text-textGreen">Sistem Penilaian Komperhensive</span>
+            Integrated Rating System adalah&nbsp;{" "}
+              <span className="text-textGreen">Sistem Penilaian Komperhensive</span>&nbsp;
               yang digunakan untuk melakukan penilaian dan mengevaluasi kelayakan dan kesehatan keuangan debitur secara menyeluruh.
               <span className="text-textGreen"></span>
             </p>
