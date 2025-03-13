@@ -3,7 +3,7 @@
 **MyProfiles** adalah sebuah website portofolio pribadi yang dibuat dengan [Next.js](https://nextjs.org/) untuk menampilkan profil, proyek, dan perjalanan profesional ****.
 
 ## ✨ Fitur Utama
-- **Tentang Saya**: Informasi lengkap tentang latar belakang, keterampilan, dan keahlian Rashif Zhafir.
+- **Tentang Saya**: Informasi lengkap tentang latar belakang, keterampilan, dan keahlian.
 - **Proyek**: Showcase proyek yang telah dikerjakan dengan deskripsi dan tautan langsung.
 - **Pengalaman**: Timeline pengalaman kerja dan pencapaian profesional.
 - **Kontak**: Formulir dan informasi kontak untuk berkomunikasi langsung.
