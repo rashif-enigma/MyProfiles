@@ -39,11 +39,10 @@ const Projects = () => {
           rekening koran untuk memudahkan proses dan mempertajam hasil analisis rekening koran<span className="text-textGreen"></span>.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Vue JS</li>
-              <li>Typescript</li>
+              <li>.NET Famework</li>
               <li>SpringBoot</li>
-              <li>Stripe</li>
-              <li>Vercel Deployment</li>
+              <li>Vue JS</li>
+              <li>Oracle Database</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
@@ -55,14 +54,14 @@ const Projects = () => {
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/WzMtRfzkP-Q"
+                href="https://rashifzhafir.vercel.app/"
                 target="_blank"
               >
                 <AiOutlineYoutube />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://nextamazon.reactbd.com/"
+                href="https://rashifzhafir.vercel.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
@@ -100,11 +99,10 @@ const Projects = () => {
               <span className="text-textGreen">Perhitungan laba untung dan rugi</span> produk pinjaman, simpanan dan jasa bagi kreditur pada PT Bank Negara Indonesia (Persero) Tbk
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
+              <li>.NET Famework</li>
+              <li>SQL Server Management</li>
               <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Sanity</li>
-              <li>React Hook Form</li>
+              <li>NextJS</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
@@ -116,14 +114,14 @@ const Projects = () => {
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/49Fx963su1I"
+                href="https://rashifzhafir.vercel.app/"
                 target="_blank"
               >
                 <AiOutlineYoutube />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://www.noormohmmad.com/"
+                href="https://rashifzhafir.vercel.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
@@ -136,7 +134,7 @@ const Projects = () => {
         <div className="flex flex-col xl:flex-row gap-6">
           <a
             className="w-full xl:w-1/2 h-auto relative group"
-            href="https://noorshop.netlify.app/"
+            href="https://rashifzhafir.vercel.app/"
             target="_blank"
           >
             <div>
@@ -162,11 +160,9 @@ const Projects = () => {
               <span className="text-textGreen"></span>
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
-              <li>Typescript</li>
-              <li>Next-auth</li>
-              <li>Stripe</li>
-              <li>Vercel Deployment</li>
+              <li>.NET Famework</li>
+              <li>SQL Server Management</li>
+              <li>C#</li>
             </ul>
             <div className="text-2xl flex gap-4">
               <a
@@ -178,14 +174,14 @@ const Projects = () => {
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://youtu.be/fi0nQc25xAw"
+                href="https://rashifzhafir.vercel.app/"
                 target="_blank"
               >
                 <AiOutlineYoutube />
               </a>
               <a
                 className="hover:text-textGreen duration-300"
-                href="https://noorshop.netlify.app/"
+                href="https://rashifzhafir.vercel.app/"
                 target="_blank"
               >
                 <RxOpenInNewWindow />
