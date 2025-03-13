@@ -34,15 +34,14 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">PACE 2.0</h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
-              <span className="text-textGreen">O-auth</span> and then make the
-              purchage using <span className="text-textGreen">stripe</span>.
+            <span className="text-textGreen"><b>P</b></span>ackage of <span className="text-textGreen"><b>A</b></span>ccurate <span className="text-textGreen"><b>C</b></span>onvenient and <span className="text-textGreen"><b>E</b></span>fficient recasting{" "}
+              <span className="text-textGreen">( PACE )</span> Tool Adalah tools yang mengotomasi proses analisis
+          rekening koran untuk memudahkan proses dan mempertajam hasil analisis rekening koran<span className="text-textGreen"></span>.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
-              <li>Nextjs</li>
+              <li>Vue JS</li>
               <li>Typescript</li>
-              <li>Next-auth</li>
+              <li>SpringBoot</li>
               <li>Stripe</li>
               <li>Vercel Deployment</li>
             </ul>
@@ -96,12 +95,9 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">BAMS CPR</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
-              A full functional Cyber Security Blog where you can view the
-              latest post and{" "}
-              <span className="text-textGreen">comments on</span> it by passing
-              your ideas besides you can try to add your own{" "}
-              <span className="text-textGreen">post</span> on it by logging on
-              the portal.
+            Customer Profitability Report{" "}
+              <span className="text-textGreen">( BAMS CPR )</span> adalah sebuah aplikasi{" "}
+              <span className="text-textGreen">Perhitungan laba untung dan rugi</span> produk pinjaman, simpanan dan jasa bagi kreditur pada PT Bank Negara Indonesia (Persero) Tbk
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>Nextjs</li>
@@ -160,10 +156,10 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">IRS 2.0</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-              An Amazon clone website for visualizing personalized Amazon
-              website. View your products, Add your account with{" "}
-              <span className="text-textGreen">O-auth</span> and then make the
-              purchage using <span className="text-textGreen">stripe</span>.
+            Integrated Rating System {" "}
+              <span className="text-textGreen">Sistem Penilaian Komperhensive</span>
+              yang digunakan untuk melakukan penilaian dan mengevaluasi kelayakan dan kesehatan keuangan debitur secara menyeluruh.
+              <span className="text-textGreen"></span>
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>Nextjs</li>
